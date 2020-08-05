@@ -6,7 +6,7 @@
 
 ----------------------------------------
 
-**Q:** What can you do in MS Vacation?
+**Q:** What can you do in Tailwind Traders Vacation?
 
 **A:** You can…
 * Submit a Request
